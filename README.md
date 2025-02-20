@@ -1,18 +1,12 @@
 [![MasterHead](https://inst.eecs.berkeley.edu/~ee290-2/sp20/assets/image/ai-circuit2-sm.jpg)](https://sites.google.com/view/yonas-tadesse/home)
 <h1 align="center">Hi 👋, I'm Yonas Tadesse</h1>
-<h3 align="center">A Passionate Mobile and Web Developer</h3>
+<h3 align="center">A Passionate Product Engineer, Mobile and Web Developer</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yonas-t" alt="yonas-t" /></a> </p>
-
-- 🔭 I recently worked on [Speech to Text Data Collection: Using Kafka, Airflow, and Spark](https://github.com/Speech-to-text-Kafka-Airflow-Spark/StoTkas)
-
-- 👨‍💻 My data projects are available at [https://sites.google.com/view/yonas-tadesse/home](https://sites.google.com/view/yonas-tadesse/home)
 
 - 📝 You can find my medium blogs here: [https://medium.com/@yonastad](https://medium.com/@yonastad)
 
 - 📫 How to reach me **yonaztad@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-aLTXx0a_lAWu_0pfjBPF65fS4LqoQuh/view](https://drive.google.com/file/d/1-aLTXx0a_lAWu_0pfjBPF65fS4LqoQuh/view)
 
 - ⚡ Fun fact **I can write and eat using both hands.**
 
