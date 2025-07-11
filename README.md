@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Yonas Tadesse</h1>
 <h3 align="center">A Passionate Product Engineer, Mobile and Web Developer</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yonas-t" alt="yonas-t" /></a> </p>
-
 - 📝 You can find my medium blogs here: [https://medium.com/@yonastad](https://medium.com/@yonastad)
 
 - 📫 How to reach me **yonaztad@gmail.com**
@@ -12,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yonas tad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yonas tad" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yonastad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yonas tad" height="30" width="40" /></a>
 <a href="https://medium.com/@yonastad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yonastad" height="30" width="40" /></a>
 </p>
 
